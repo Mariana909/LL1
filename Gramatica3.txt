@@ -1,0 +1,11 @@
+Gramatica3
+9
+S -> A B C S'
+S' -> uno S'
+S' -> _
+A -> dos B C
+A -> _
+B -> C tres
+B -> _
+C -> cuatro B
+C -> _
