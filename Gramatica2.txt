@@ -1,0 +1,12 @@
+Gramatica2
+10
+S -> B uno
+S -> dos C
+S -> _
+A -> S tres B C
+A -> cuatro
+A -> _
+B -> A cinco C seis 
+B -> _
+C -> siete B
+C -> _
