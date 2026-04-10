@@ -1,0 +1,15 @@
+Gramatica1 
+12
+S -> A B C
+S -> D E
+A -> dos B tres
+A -> _
+B -> B'
+B' -> cuatro C cinco B'
+B' -> _
+C -> seis A B
+C -> _
+D -> uno A E
+D -> _
+E -> tres
+
