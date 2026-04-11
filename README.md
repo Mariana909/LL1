@@ -62,8 +62,8 @@ D → uno A E | B
 E → tres
 ```
 
-La gramática original contiene recursividad directa por izquierda en `S → S uno`,
-que fue eliminada introduciendo el no terminal auxiliar `S'`. La gramática resultante **es LL(1)**.
+La gramática original contiene recursividad directa por izquierda en `B → B cuatro C cinco`,
+que fue eliminada introduciendo el no terminal auxiliar `B'`. La gramática resultante **es LL(1)**.
 
 ---
 
