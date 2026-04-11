@@ -1,4 +1,3 @@
-```markdown
 # Analizador Sintáctico Descendente Recursivo (ASDR) — LL(1)
 
 Implementación de analizadores sintácticos descendentes recursivos para tres gramáticas,
